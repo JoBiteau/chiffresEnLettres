@@ -1,0 +1,11 @@
+E:\code\C#\ChiffresEnLettresSolution\ChiffresEnLettres\bin\Debug\netcoreapp3.1\ChiffresEnLettres.exe
+E:\code\C#\ChiffresEnLettresSolution\ChiffresEnLettres\bin\Debug\netcoreapp3.1\ChiffresEnLettres.deps.json
+E:\code\C#\ChiffresEnLettresSolution\ChiffresEnLettres\bin\Debug\netcoreapp3.1\ChiffresEnLettres.runtimeconfig.json
+E:\code\C#\ChiffresEnLettresSolution\ChiffresEnLettres\bin\Debug\netcoreapp3.1\ChiffresEnLettres.runtimeconfig.dev.json
+E:\code\C#\ChiffresEnLettresSolution\ChiffresEnLettres\bin\Debug\netcoreapp3.1\ChiffresEnLettres.dll
+E:\code\C#\ChiffresEnLettresSolution\ChiffresEnLettres\bin\Debug\netcoreapp3.1\ChiffresEnLettres.pdb
+E:\code\C#\ChiffresEnLettresSolution\ChiffresEnLettres\obj\Debug\netcoreapp3.1\ChiffresEnLettres.AssemblyInfoInputs.cache
+E:\code\C#\ChiffresEnLettresSolution\ChiffresEnLettres\obj\Debug\netcoreapp3.1\ChiffresEnLettres.AssemblyInfo.cs
+E:\code\C#\ChiffresEnLettresSolution\ChiffresEnLettres\obj\Debug\netcoreapp3.1\ChiffresEnLettres.dll
+E:\code\C#\ChiffresEnLettresSolution\ChiffresEnLettres\obj\Debug\netcoreapp3.1\ChiffresEnLettres.pdb
+E:\code\C#\ChiffresEnLettresSolution\ChiffresEnLettres\obj\Debug\netcoreapp3.1\ChiffresEnLettres.csprojAssemblyReference.cache
